@@ -8,32 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/juniorgeraldo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj",
+      "projectUniqueName": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/Trabalho_Algebra.csproj",
       "projectName": "Trabalho_Algebra",
-      "projectPath": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\obj\\",
+      "projectPath": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/Trabalho_Algebra.csproj",
+      "packagesPath": "/Users/juniorgeraldo/.nuget/packages/",
+      "outputPath": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/juniorgeraldo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "/opt/homebrew/Cellar/dotnet/10.0.403/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -75,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.403/libexec/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

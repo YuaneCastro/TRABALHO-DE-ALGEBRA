@@ -1,28 +1,43 @@
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\bin\Debug\net10.0\Trabalho_Algebra.exe
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\bin\Debug\net10.0\Trabalho_Algebra.deps.json
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\bin\Debug\net10.0\Trabalho_Algebra.runtimeconfig.json
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\bin\Debug\net10.0\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\bin\Debug\net10.0\Trabalho_Algebra.pdb
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.AssemblyInfoInputs.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.AssemblyInfo.cs
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.csproj.CoreCompileInputs.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\refint\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.pdb
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\Trabalho_Algebra.genruntimeconfig.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\Trabalho_Algebra\obj\Debug\net10.0\ref\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\bin\Debug\net10.0\Trabalho_Algebra.exe
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\bin\Debug\net10.0\Trabalho_Algebra.deps.json
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\bin\Debug\net10.0\Trabalho_Algebra.runtimeconfig.json
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\bin\Debug\net10.0\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\bin\Debug\net10.0\Trabalho_Algebra.pdb
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.AssemblyInfoInputs.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.AssemblyInfo.cs
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.csproj.CoreCompileInputs.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\refint\Trabalho_Algebra.dll
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.pdb
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\Trabalho_Algebra.genruntimeconfig.cache
-C:\Users\admin\OneDrive\Ambiente de Trabalho\trabalho-Algebra\obj\Debug\net10.0\ref\Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/bin/Debug/net10.0/Trabalho_Algebra.exe
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/bin/Debug/net10.0/Trabalho_Algebra.deps.json
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/bin/Debug/net10.0/Trabalho_Algebra.runtimeconfig.json
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/bin/Debug/net10.0/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/bin/Debug/net10.0/Trabalho_Algebra.pdb
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfoInputs.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfo.cs
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.csproj.CoreCompileInputs.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/refint/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.pdb
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/Trabalho_Algebra.genruntimeconfig.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/Trabalho_Algebra/obj/Debug/net10.0/ref/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/bin/Debug/net10.0/Trabalho_Algebra.exe
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/bin/Debug/net10.0/Trabalho_Algebra.deps.json
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/bin/Debug/net10.0/Trabalho_Algebra.runtimeconfig.json
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/bin/Debug/net10.0/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/bin/Debug/net10.0/Trabalho_Algebra.pdb
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfoInputs.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfo.cs
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.csproj.CoreCompileInputs.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/refint/Trabalho_Algebra.dll
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.pdb
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/Trabalho_Algebra.genruntimeconfig.cache
+C:/Users/admin/OneDrive/Ambiente de Trabalho/trabalho-Algebra/obj/Debug/net10.0/ref/Trabalho_Algebra.dll
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/bin/Debug/net10.0/Trabalho_Algebra
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/bin/Debug/net10.0/Trabalho_Algebra.deps.json
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/bin/Debug/net10.0/Trabalho_Algebra.runtimeconfig.json
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/bin/Debug/net10.0/Trabalho_Algebra.dll
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/bin/Debug/net10.0/Trabalho_Algebra.pdb
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfoInputs.cache
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.AssemblyInfo.cs
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.csproj.CoreCompileInputs.cache
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.sourcelink.json
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.dll
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/refint/Trabalho_Algebra.dll
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.pdb
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/Trabalho_Algebra.genruntimeconfig.cache
+/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/Debug/net10.0/ref/Trabalho_Algebra.dll
