@@ -1,3 +1,3 @@
 # trabalho Algebra
 
-bom dia
+bom dia.............
