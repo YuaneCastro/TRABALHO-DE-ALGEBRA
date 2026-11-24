@@ -12,12 +12,13 @@
         void Matrix_Print(double[,] Matriz)
         {
             // preenche a matriz com os valores digitados pelo usuario
+            // bom dia 
             Console.Write("\n");
             for (int i = 0; i < Matriz.GetLength(0); i++)
             {
                 Console.Write("| ");
                 for (int j = 0; j < Matriz.GetLength(1); j++)
-                {
+                {  
                     Console.Write($"{Matriz[i, j], 8}");
                 }
                 Console.Write("   |\n");
