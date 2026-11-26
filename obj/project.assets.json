@@ -8,25 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/juniorgeraldo/.nuget/packages/": {}
+    "C:\\Users\\Ruth.Cardoso\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/Trabalho_Algebra.csproj",
+      "projectUniqueName": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj",
       "projectName": "Trabalho_Algebra",
-      "projectPath": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/Trabalho_Algebra.csproj",
-      "packagesPath": "/Users/juniorgeraldo/.nuget/packages/",
-      "outputPath": "/Users/juniorgeraldo/Documents/GitHub/TRABALHO-DE-ALGEBRA/obj/",
+      "projectPath": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj",
+      "packagesPath": "C:\\Users\\Ruth.Cardoso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/juniorgeraldo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Ruth.Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "/opt/homebrew/Cellar/dotnet/10.0.403/libexec/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/10.0.403/libexec/sdk/10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

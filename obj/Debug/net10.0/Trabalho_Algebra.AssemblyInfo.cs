@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trabalho_Algebra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+298b8efc870ac9491a3fffa183ec1c8631a9da4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d221af1bfff4883a9c1c37b66c6cfc547d0630d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trabalho_Algebra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trabalho_Algebra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
