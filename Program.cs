@@ -12,10 +12,7 @@
         
         void Matrix_Print(double[,] Matriz)
         {
-            Console.Clear();
             // preenche a matriz com os valores digitados pelo usuario
-            // bom dia 
-            Console.WriteLine("===================================\n         ESTÁ É A SUA MATRIZ\n===================================");
             Console.Write("\n");
             for (int i = 0; i < Matriz.GetLength(0); i++)
             {
@@ -102,7 +99,6 @@
             bool verif_retor;
             do
             {
-                Matrix_Print(Matriz);
                 Console.Write("\n\nDIGITE O ESCALAR: ");
                 verif_retor = double.TryParse(Console.ReadLine(), out escalar);
                 Console.Clear();
@@ -147,6 +143,17 @@
             }
             return Matriz_resultante;
         }
+        double[,] Matriz_Transpose(double[,] Matriz)
+        {
+            double[,] Matriz_transposta = new double[Matriz.GetLength(1), Matriz.GetLength(0)];
+            for(int i =0; i<Matriz.GetLength(0);i++){
+                for(int j=0; j < Matriz.GetLength(1); j++)
+                {
+                    Matriz_transposta[j,i] = Matriz[i,j];
+                }
+            }
+            return Matriz_transposta;
+        }
         bool a = true;
         while (a == true)
         {
@@ -184,7 +191,11 @@
                     //1 - Multiplicação por um escalar
                     Num_mat = 0;
                     double[,] Matriz_result_scalar = Matrix_Read(Num_mat);
+                    Console.WriteLine("\n\n===================================\n         ESTA É A MATRIZ ORIGINAL\n===================================");
+                    Matrix_Print(Matriz_result_scalar);
                     Matriz_result_scalar = Matrix_Scalar_Mult(Matriz_result_scalar);
+                    Console.Clear();
+                    Console.WriteLine("\n\n====================================================\n ESTE É O RESULTADO DA MULTIPLICAÇÃO POR UM ESCALAR\n====================================================");
                     Matrix_Print(Matriz_result_scalar);
                     break;
                 case 2:
@@ -199,6 +210,8 @@
                         break;
                     }
                     double[,] Matriz_result_soma = Matrix_Add(Matriz1, Matriz2);
+                    Console.Clear();
+                    Console.WriteLine("\n\n====================================================\n ESTE É O RESULTADO DA SOMA DE MATRIZES\n====================================================");
                     Matrix_Print(Matriz_result_soma);
                     break;
                 case 3:
@@ -213,11 +226,20 @@
                         break;
                     }
                     double[,] Matriz_result_mult = Matrix_Mult(MatrizM1, MatrizM2);
+                    Console.Clear();
+                    Console.WriteLine("\n\n====================================================\n ESTE É O RESULTADO DA MULTIPLICAÇÃO DE MATRIZES\n====================================================");
                     Matrix_Print(Matriz_result_mult);
                     break;
                 case 4:
                     //4 - Transposta de uma matriz
-
+                    Num_mat=0;
+                    double[,] Matriz = Matrix_Read(Num_mat);
+                    Console.Clear();
+                    Console.WriteLine("\n\n===================================\n     ESTA É A MATRIZ ORIGINAL\n===================================");
+                    Matrix_Print(Matriz);
+                    Console.WriteLine("\n\n===================================\n    ESTA É A MATRIZ TRANSPOSTA\n===================================");
+                    double[,] Matriz_transposta = Matriz_Transpose(Matriz);
+                    Matrix_Print(Matriz_transposta);
                     break;
                 case 5:
                     //5 - Verificar se uma matriz é diagonal
