@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj": {}
+    "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj": {
+    "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj",
+        "projectUniqueName": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj",
         "projectName": "Trabalho_Algebra",
-        "projectPath": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\Trabalho_Algebra.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\OneDrive\\Ambiente de Trabalho\\trabalho-Algebra\\obj\\",
+        "projectPath": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\Trabalho_Algebra.csproj",
+        "packagesPath": "C:\\Users\\Ruth.Cardoso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ruth.Cardoso\\Desktop\\TRABALHO-DE-ALGEBRA\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Ruth.Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

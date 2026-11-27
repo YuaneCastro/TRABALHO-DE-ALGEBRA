@@ -9,15 +9,19 @@
                 "\n===================================\n          OPÇÃO INVÁLIDA\n===================================\n\n"
             );
         }
+        
         void Matrix_Print(double[,] Matriz)
         {
+            Console.Clear();
             // preenche a matriz com os valores digitados pelo usuario
+            // bom dia 
+            Console.WriteLine("===================================\n         ESTÁ É A SUA MATRIZ\n===================================");
             Console.Write("\n");
             for (int i = 0; i < Matriz.GetLength(0); i++)
             {
                 Console.Write("| ");
                 for (int j = 0; j < Matriz.GetLength(1); j++)
-                {
+                {  
                     Console.Write($"{Matriz[i, j], 8}");
                 }
                 Console.Write("   |\n");
@@ -26,6 +30,7 @@
         }
         double[,] Matrix_Read(int Num_mat)
         {
+            Console.Clear();
             int N_linha;
             bool verif_retor_lin;
             do
@@ -134,7 +139,10 @@
             {
                 for (int j = 0; j < Matriz_resultante.GetLength(1); j++)
                 {
-
+                    for (int k=0; k<Matriz1.GetLength(1); k++)
+                    {
+                        Matriz_resultante[i, j] += Matriz1[i, k] * Matriz2[k, j];
+                    }
                 }
             }
             return Matriz_resultante;
@@ -195,7 +203,17 @@
                     break;
                 case 3:
                     //3 - Multiplicação de matrizes
-
+                    Num_mat = 1;
+                    double[ ,] MatrizM1 = Matrix_Read(Num_mat);
+                    Num_mat = 2;
+                    double[ ,] MatrizM2 = Matrix_Read(Num_mat);
+                    if(MatrizM1.GetLength(1) != MatrizM2.GetLength(0))
+                    {
+                        Console.WriteLine("AS MATRIZES NAO TEM O TAMANHO COMPATIVEL, NAO E POSSIVEL MULTIPLICA-LAS");
+                        break;
+                    }
+                    double[,] Matriz_result_mult = Matrix_Mult(MatrizM1, MatrizM2);
+                    Matrix_Print(Matriz_result_mult);
                     break;
                 case 4:
                     //4 - Transposta de uma matriz
